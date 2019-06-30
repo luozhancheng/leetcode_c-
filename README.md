@@ -1,2 +1,2 @@
-# leetcode_c-
+# leetcode_cpp
 leet code practice
