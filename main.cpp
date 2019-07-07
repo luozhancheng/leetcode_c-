@@ -15,7 +15,9 @@
 //#include "include/quick_sort.h"
 //#include "include/kth_array.h"
 //#include "include/sqrt_double.h"
-#include "include/lru-cach.h"
+//#include "include/lru-cach.h"
+//#include "include/dijkstra.h"
+#include "include/net_delay.h"
 
 
 int main() {
