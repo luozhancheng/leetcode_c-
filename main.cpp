@@ -28,8 +28,12 @@
 //#include "include/23_merge_k_list.h
 //#include "include/20_valid_parentheses.h"
 //#include "include/32_longest_valid_parentheses.h"
-#include "include/150_evaluate_reversepolish.h"
-
+//#include "include/150_evaluate_reversepolish.h"
+//#include "include/239_sliding_window.h"
+//#include "include/69_sqrt.h"
+//#include "include/344_reverse_string.h"
+//#include "include/151_reverse_words_in_string.h"
+#include "include/8_atoi.h"
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
