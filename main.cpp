@@ -33,7 +33,13 @@
 //#include "include/69_sqrt.h"
 //#include "include/344_reverse_string.h"
 //#include "include/151_reverse_words_in_string.h"
-#include "include/8_atoi.h"
+//#include "include/8_atoi.h"
+//#include "include/226_inver_binary_tree.h"
+//#include "include/104_max_depth_tree.h"
+//#include "include/98_validate_btree.h"
+//#include "include/112_path_sum.h"
+//#include "include/36_valid_sudoku.h"
+#include "include/51_n_q_i.h"
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
