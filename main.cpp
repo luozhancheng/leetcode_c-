@@ -39,7 +39,8 @@
 //#include "include/98_validate_btree.h"
 //#include "include/112_path_sum.h"
 //#include "include/36_valid_sudoku.h"
-#include "include/51_n_q_i.h"
+//#include "include/51_n_q_i.h"
+#include "include/10_regular_exp.h"
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
