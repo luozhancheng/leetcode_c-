@@ -32,7 +32,7 @@ public:
         } else if (p[j - 1] == '*') {
           if (s[i - 1] != p[j - 2]) {
             dp[i][j] = dp[i][j - 2];
-          }
+            }
 
           if (s[i - 1] == p[j - 2] || p[j - 2] == '.') {
             dp[i][j] = dp[i][j - 2] || dp[i][j - 1] || dp[i - 1][j];
