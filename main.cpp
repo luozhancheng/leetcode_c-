@@ -43,7 +43,8 @@
 //#include "include/10_regular_exp.h"
 //#include "include/64_min_path_sum.h"
 //#include "include/322_coin_change.h"
-#include "include/121_besttime_to_buy_stock.h"
+//#include "include/121_besttime_to_buy_stock.h"
+#include "include/hdu_22366_erfentu.h"
 
 
 int main() {
