@@ -1,5 +1,7 @@
 #include <iostream>
 
+#include "include/704_binary_search.h"
+
 //#include "include/sqrt.h"
 //#include "include/trie.h"
 //#include "include/word_search_ii.h"
@@ -46,7 +48,7 @@
 //#include "include/121_besttime_to_buy_stock.h"
 //#include "include/hdu_22366_erfentu.h"
 //#include "include/50_pwerx_n.h"
-#include "include/N!.h"
+
 
 
 int main() {
